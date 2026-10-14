@@ -18,6 +18,7 @@ rollup(
     srcs = [
         ":blk.js",
         ":das.js",
+        ":dshl.js",
         ":gn.js",
         ":quirrel.js",
         "//polygerrit-ui/app:node_modules/highlight.js",

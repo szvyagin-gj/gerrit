@@ -47,6 +47,7 @@ const LANGUAGE_MAP = new Map<string, string>([
   ['text/x-diff', 'diff'],
   ['text/x-django', 'django'],
   ['text/x-dockerfile', 'dockerfile'],
+  ['text/x-dshl', 'dshl'],
   ['text/x-ebnf', 'ebnf'],
   ['text/x-elm', 'elm'],
   ['text/x-erlang', 'erlang'],
