@@ -16,8 +16,10 @@ exports_files(["gn.js"])
 rollup(
     name = "highlight.min",
     srcs = [
+        ":blk.js",
         ":das.js",
         ":gn.js",
+        ":quirrel.js",
         "//polygerrit-ui/app:node_modules/highlight.js",
         "//polygerrit-ui/app:node_modules/highlightjs-closure-templates",
         "//polygerrit-ui/app:node_modules/highlightjs-epp",
