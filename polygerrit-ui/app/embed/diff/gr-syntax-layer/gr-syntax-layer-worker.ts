@@ -42,6 +42,7 @@ const LANGUAGE_MAP = new Map<string, string>([
   ['text/x-csharp', 'csharp'],
   ['text/x-csrc', 'cpp'],
   ['text/x-d', 'd'],
+  ['text/x-das', 'das'],
   ['text/x-diff', 'diff'],
   ['text/x-django', 'django'],
   ['text/x-dockerfile', 'dockerfile'],
