@@ -20,6 +20,7 @@ rollup(
         ":das.js",
         ":dshl.js",
         ":gn.js",
+        ":jam.js",
         ":quirrel.js",
         "//polygerrit-ui/app:node_modules/highlight.js",
         "//polygerrit-ui/app:node_modules/highlightjs-closure-templates",
